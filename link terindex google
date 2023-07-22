@@ -1,0 +1,4 @@
+/sitemap.xml
+/feeds/posts/default?orderby=updated
+/rss.xml
+/atom.xml?redirect=false&start-index=1&max-results=500
